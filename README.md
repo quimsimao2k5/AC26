@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellowgreen.svg)
-![Status](https://img.shields.io/badge/Status-Completo-success.svg)
 
 Repositório de trabalhos práticos da unidade curricular **Aprendizagem Computacional** do curso de **Licenciatura em Ciências da Computação** na Universidade do Minho.
 
@@ -49,6 +48,7 @@ Material das aulas teóricas com conceitos fundamentais de Data Mining e Machine
 **Ficheiro:** `PP_T_aula01.ipynb`
 
 #### 🔄 CRISP-DM (Cross-Industry Standard Process for Data Mining)
+
 Metodologia standard para projetos de Data Mining:
 
 1. **Business Understanding** - Objetivos de negócio e planeamento do projeto
@@ -61,17 +61,20 @@ Metodologia standard para projetos de Data Mining:
 #### 📊 Tarefas Comuns de Data Mining
 
 **Preditivas (Predictive):**
+
 - **Classification** - Prever a classe de um objeto
 - **Regression** - Prever um valor numérico
 - **Time Series Analysis** - Prever próximo valor numa série temporal
 
 **Descritivas (Descriptive):**
+
 - **Clustering** - Agrupar dados por similaridade
 - **Summarization** - Resumir e generalizar dados
 - **Association Rules** - Descobrir conexões entre itens
 - **Sequence Discovery** - Encontrar padrões em dados sequenciais
 
 #### 🧹 Data Cleaning - Passos Fundamentais
+
 1. Importar dados
 2. Juntar datasets (merge)
 3. Tratar dados em falta (missing data)
@@ -79,6 +82,7 @@ Metodologia standard para projetos de Data Mining:
 5. Normalização
 
 #### ⚠️ Desafios Comuns
+
 - Qualidade de dados pode ser pobre
 - Dados podem estar em falta ou com ruído
 - Padrões encontrados podem não ser exatos, úteis ou interessantes
@@ -300,7 +304,7 @@ O notebook TP2 contém três conjuntos de mini-exercises práticos:
 ---
 
 ## 👤 Autor
-
+Quim
 **Universidade do Minho**  
 Licenciatura em Ciências da Computação  
 Aprendizagem Computacional 2025/2026
